@@ -1,0 +1,19 @@
+.Footer {
+  text-align: center;
+  background: #000000;
+  padding: 1.2rem 0;
+  color: #0d131b;
+  font-size: 1.4rem;
+}
+
+.Footer-link {
+  text-decoration: none;
+  color: #5b89ec;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease-out;
+}
+
+.Footer-link:hover {
+  color: rgb(255, 255, 255);
+  border-bottom: 1px solid #ffffff;
+}
